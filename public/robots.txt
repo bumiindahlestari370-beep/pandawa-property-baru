@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pandawa-property-baru.bumiindahlestari370.workers.dev/sitemap.xml

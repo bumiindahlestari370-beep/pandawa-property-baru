@@ -1,0 +1,9 @@
+{
+  "name": "pandawa-property-baru",
+  "main": "worker.js",
+  "compatibility_date": "2026-11-15",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS"
+  }
+}
